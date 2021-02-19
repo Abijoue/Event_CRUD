@@ -5,7 +5,7 @@ Application MOBILE (CRUD) - SPRING BOOT (BACK-END) & FLUTTER(FRONT-END) -
 
 ### Etapes a suivre pour deployer le project complet:
 
-#### 1- installer Postgresql *_* 
+#### 1- telecharger et installer Postgresql -_- : https://www.postgresql.org/download/ 
    
 #### 2-Importer le projet `Backend-API-Springboot` sur Eclipse ou autre IDE :
 
@@ -20,6 +20,7 @@ Application MOBILE (CRUD) - SPRING BOOT (BACK-END) & FLUTTER(FRONT-END) -
 #### 3-Demarrer le Project sur Eclipse et utiliser Swagger ( JSON API documentation for spring based applications ) :
     
   - http://localhost:8080/v2/api-docs     ( swagger 2 ) 
+	![](/images/swagger.png)
   - http://localhost:8080/swagger-ui.html ( swagger-ui )
 
         
