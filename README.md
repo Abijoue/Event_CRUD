@@ -27,8 +27,8 @@ Application MOBILE ( CRUD ) - SPRING BOOT ( BACK-END ) & FLUTTER( FRONT-END ) -
 
     	- lancer le projet sur un emulateur : flutter run 
 	- en cas de problème : flutter doctor
-
-#### 5- have fun 
+#### 5- Code source : dans la branche : Master ( branche actuelle : Main )
+#### 6- have fun 
 ![](/images/collection.jpg)
 
 
