@@ -1,8 +1,6 @@
 # Event_CRUD
 Application MOBILE (CRUD) - SPRING BOOT (BACK-END) & FLUTTER(FRONT-END) -
 
-# SpringBoot&flutter
-
 ### Etapes a suivre pour deployer le project complet:
 
 #### 1- telecharger et installer Postgresql -_- : https://www.postgresql.org/download/ 
