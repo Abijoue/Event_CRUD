@@ -1,5 +1,5 @@
 # Event_CRUD
-Application MOBILE (CRUD) - SPRING BOOT (BACK-END) & FLUTTER(FRONT-END) -
+Application MOBILE ( CRUD ) - SPRING BOOT ( BACK-END ) & FLUTTER( FRONT-END ) -
 
 ### Etapes a suivre pour deployer le project complet:
 
