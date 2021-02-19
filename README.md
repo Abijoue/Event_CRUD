@@ -22,12 +22,17 @@ Application MOBILE (CRUD) - SPRING BOOT (BACK-END) & FLUTTER(FRONT-END) -
   - http://localhost:8080/v2/api-docs     ( swagger 2 ) 
 	![](/images/swagger.png)
   - http://localhost:8080/swagger-ui.html ( swagger-ui )
+	![](/images/swagger-ui.png)
 
         
 #### 4- Importer le dossier `Frontend-Flutter ` sur Visual studio code ( ou editeur do votre choix ) :
 
-    - lancer le projet sur un emulateur : flutter run 
-	  - en cas de problème : flutter doctor
-    
+    	- lancer le projet sur un emulateur : flutter run 
+	- en cas de problème : flutter doctor
+
+#### 5- have fun 
+![](/images/collection.jpg)
+
+
     
     
