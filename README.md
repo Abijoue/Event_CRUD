@@ -29,7 +29,7 @@ Application MOBILE ( CRUD ) - SPRING BOOT ( BACK-END ) & FLUTTER( FRONT-END ) -
 	- en cas de problème : flutter doctor
 #### 5- Code source : dans la branche : Master ( branche actuelle : Main )
 #### 6- screen shoots
-	![](/images/collection.jpg)
+![](/images/collection.jpg)
 #### 7- video demo
 https://mega.nz/file/oV8ymLiC#eu1Jd956UjikgWbTAZ_Dmzh9kCzLtphuJHl7gkc4j4o
 
